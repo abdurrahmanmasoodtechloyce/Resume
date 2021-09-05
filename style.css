@@ -1,0 +1,27 @@
+body 
+{
+    background-color: darkslategrey;
+    color: azure;
+}
+
+h3 
+{
+    text-align: center;
+    font-size: large;
+}
+
+h3 
+{
+    text-align: center;
+    font-size: medium;
+}
+
+h4 
+{
+    font-size: small;
+}
+
+p1
+{
+    font-size: smaller;
+}
