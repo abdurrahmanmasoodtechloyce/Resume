@@ -57,3 +57,10 @@ p
 {
     line-height: 1mm;
 }
+
+li
+{
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 0.5cm;
+}
